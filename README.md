@@ -1,10 +1,5 @@
-# android-sdk-sample
+# This repository has moved
 
-Request a demo with apiKey, user_id and gradle credentials to support@meetinglawyers.com
+The MeetingLawyers samples now live in one repository: **[MeetingLawyers/mobile-sample](https://github.com/MeetingLawyers/mobile-sample/tree/main/android)** (folder `android/`).
 
-Open `settings.gradle.kts` and update credentials
-Open `Constants.kt` and fill fill constants
-
-To get more information check:
-https://developer.meetinglawyers.com/docs/getting-started
-
+It has the iOS, Android and Ionic/Capacitor samples, the MeetingPros (lawyers + doctors) samples and step-by-step integration guides. This repository is archived and no longer updated.
